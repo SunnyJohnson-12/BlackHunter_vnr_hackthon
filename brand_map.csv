@@ -1,0 +1,119 @@
+# Data Provenance: Curated Indian Brand Formulary & Standard INN Generics (Demo dataset for VNR Hackathon)
+brand_name,generic_name,form,default_strength_mg,source
+Dolo 650,paracetamol,Tablet,650,Curated Indian Brand Formulary
+Dolo,paracetamol,Tablet,650,Curated Indian Brand Formulary
+Crocin 500,paracetamol,Tablet,500,Curated Indian Brand Formulary
+Crocin,paracetamol,Tablet,500,Curated Indian Brand Formulary
+Calpol 500,paracetamol,Tablet,500,Curated Indian Brand Formulary
+Calpol 650,paracetamol,Tablet,650,Curated Indian Brand Formulary
+Calpol,paracetamol,Tablet,500,Curated Indian Brand Formulary
+Ecosprin 75,aspirin,Tablet,75,Curated Indian Brand Formulary
+Ecosprin 150,aspirin,Tablet,150,Curated Indian Brand Formulary
+Ecosprin,aspirin,Tablet,75,Curated Indian Brand Formulary
+Disprin,aspirin,Effervescent Tablet,350,Curated Indian Brand Formulary
+Augmentin 625,amoxicillin+clavulanate,Tablet,625,Curated Indian Brand Formulary
+Augmentin,amoxicillin+clavulanate,Tablet,625,Curated Indian Brand Formulary
+Amoxil,amoxicillin,Capsule,500,Curated Indian Brand Formulary
+Pan 40,pantoprazole,Tablet,40,Curated Indian Brand Formulary
+Pan,pantoprazole,Tablet,40,Curated Indian Brand Formulary
+Pantocid 40,pantoprazole,Tablet,40,Curated Indian Brand Formulary
+Pan-D,pantoprazole+domperidone,Capsule,40+30,Curated Indian Brand Formulary
+Omez 20,omeprazole,Capsule,20,Curated Indian Brand Formulary
+Omez,omeprazole,Capsule,20,Curated Indian Brand Formulary
+Glycomet 500,metformin,Tablet,500,Curated Indian Brand Formulary
+Glycomet SR,metformin,Tablet,500,Curated Indian Brand Formulary
+Glycomet,metformin,Tablet,500,Curated Indian Brand Formulary
+Glyciphage 500,metformin,Tablet,500,Curated Indian Brand Formulary
+Lipitor 20,atorvastatin,Tablet,20,Curated Indian Brand Formulary
+Atorva 10,atorvastatin,Tablet,10,Curated Indian Brand Formulary
+Atorva 20,atorvastatin,Tablet,20,Curated Indian Brand Formulary
+Atorva,atorvastatin,Tablet,10,Curated Indian Brand Formulary
+Storvas 10,atorvastatin,Tablet,10,Curated Indian Brand Formulary
+Ciplox 500,ciprofloxacin,Tablet,500,Curated Indian Brand Formulary
+Ciplox,ciprofloxacin,Tablet,500,Curated Indian Brand Formulary
+Azithral 500,azithromycin,Tablet,500,Curated Indian Brand Formulary
+Azithral,azithromycin,Tablet,500,Curated Indian Brand Formulary
+Zifi 200,cefixime,Tablet,200,Curated Indian Brand Formulary
+Taxim-O 200,cefixime,Tablet,200,Curated Indian Brand Formulary
+Telma 40,telmisartan,Tablet,40,Curated Indian Brand Formulary
+Telma 80,telmisartan,Tablet,80,Curated Indian Brand Formulary
+Telma,telmisartan,Tablet,40,Curated Indian Brand Formulary
+Telmikind 40,telmisartan,Tablet,40,Curated Indian Brand Formulary
+Amlong 5,amlodipine,Tablet,5,Curated Indian Brand Formulary
+Amlong,amlodipine,Tablet,5,Curated Indian Brand Formulary
+Combiflam,ibuprofen+paracetamol,Tablet,400+325,Curated Indian Brand Formulary
+Brufen 400,ibuprofen,Tablet,400,Curated Indian Brand Formulary
+Brufen,ibuprofen,Tablet,400,Curated Indian Brand Formulary
+Allegra 120,fexofenadine,Tablet,120,Curated Indian Brand Formulary
+Allegra,fexofenadine,Tablet,120,Curated Indian Brand Formulary
+Cetiriz,cetirizine,Tablet,10,Curated Indian Brand Formulary
+Cetzine,cetirizine,Tablet,10,Curated Indian Brand Formulary
+Montek-LC,montelukast+levocetirizine,Tablet,10+5,Curated Indian Brand Formulary
+Betaloc 50,metoprolol,Tablet,50,Curated Indian Brand Formulary
+Metosartan,metoprolol+telmisartan,Tablet,50+40,Curated Indian Brand Formulary
+Inderal 40,propranolol,Tablet,40,Curated Indian Brand Formulary
+Inderal 10,propranolol,Tablet,10,Curated Indian Brand Formulary
+Inderal,propranolol,Tablet,40,Curated Indian Brand Formulary
+Lasix 40,furosemide,Tablet,40,Curated Indian Brand Formulary
+Lasix,furosemide,Tablet,40,Curated Indian Brand Formulary
+Aldactone 25,spironolactone,Tablet,25,Curated Indian Brand Formulary
+Aldactone,spironolactone,Tablet,25,Curated Indian Brand Formulary
+Warf 5,warfarin,Tablet,5,Curated Indian Brand Formulary
+Warf 2,warfarin,Tablet,2,Curated Indian Brand Formulary
+Warf,warfarin,Tablet,5,Curated Indian Brand Formulary
+Silagra 50,sildenafil,Tablet,50,Curated Indian Brand Formulary
+Silagra 100,sildenafil,Tablet,100,Curated Indian Brand Formulary
+Silagra,sildenafil,Tablet,50,Curated Indian Brand Formulary
+Sorbitrate 5,nitroglycerin,Sublingual Tablet,5,Curated Indian Brand Formulary
+Sorbitrate 10,nitroglycerin,Sublingual Tablet,10,Curated Indian Brand Formulary
+Sorbitrate,nitroglycerin,Sublingual Tablet,5,Curated Indian Brand Formulary
+Tramazac 50,tramadol,Capsule,50,Curated Indian Brand Formulary
+Tramazac,tramadol,Capsule,50,Curated Indian Brand Formulary
+Daxid 50,sertraline,Tablet,50,Curated Indian Brand Formulary
+Daxid,sertraline,Tablet,50,Curated Indian Brand Formulary
+Zoloft,sertraline,Tablet,50,Curated Indian Brand Formulary
+Viagra,sildenafil,Tablet,50,Curated Indian Brand Formulary
+Naprosyn 500,naproxen,Tablet,500,Curated Indian Brand Formulary
+Naprosyn 250,naproxen,Tablet,250,Curated Indian Brand Formulary
+Naprosyn,naproxen,Tablet,500,Curated Indian Brand Formulary
+naproxen,naproxen,Tablet,500,Curated Indian Brand Formulary
+Voveran 50,diclofenac,Tablet,50,Curated Indian Brand Formulary
+Voveran,diclofenac,Tablet,50,Curated Indian Brand Formulary
+diclofenac,diclofenac,Tablet,50,Curated Indian Brand Formulary
+Ketorol 10,ketorolac,Tablet,10,Curated Indian Brand Formulary
+Ketorol,ketorolac,Tablet,10,Curated Indian Brand Formulary
+ketorolac,ketorolac,Tablet,10,Curated Indian Brand Formulary
+Cobix 200,celecoxib,Capsule,200,Curated Indian Brand Formulary
+Cobix,celecoxib,Capsule,200,Curated Indian Brand Formulary
+celecoxib,celecoxib,Capsule,200,Curated Indian Brand Formulary
+Nexpro 40,esomeprazole,Tablet,40,Curated Indian Brand Formulary
+Nexpro,esomeprazole,Tablet,40,Curated Indian Brand Formulary
+esomeprazole,esomeprazole,Tablet,40,Curated Indian Brand Formulary
+Razo 20,rabeprazole,Tablet,20,Curated Indian Brand Formulary
+Razo,rabeprazole,Tablet,20,Curated Indian Brand Formulary
+rabeprazole,rabeprazole,Tablet,20,Curated Indian Brand Formulary
+Amaryl 1,glimepiride,Tablet,1,Curated Indian Brand Formulary
+Amaryl 2,glimepiride,Tablet,2,Curated Indian Brand Formulary
+Amaryl,glimepiride,Tablet,2,Curated Indian Brand Formulary
+glimepiride,glimepiride,Tablet,2,Curated Indian Brand Formulary
+Rosuvas 10,rosuvastatin,Tablet,10,Curated Indian Brand Formulary
+Rosuvas,rosuvastatin,Tablet,10,Curated Indian Brand Formulary
+rosuvastatin,rosuvastatin,Tablet,10,Curated Indian Brand Formulary
+Cardace 5,ramipril,Tablet,5,Curated Indian Brand Formulary
+Cardace,ramipril,Tablet,5,Curated Indian Brand Formulary
+ramipril,ramipril,Tablet,5,Curated Indian Brand Formulary
+Envas 5,enalapril,Tablet,5,Curated Indian Brand Formulary
+Envas,enalapril,Tablet,5,Curated Indian Brand Formulary
+enalapril,enalapril,Tablet,5,Curated Indian Brand Formulary
+Lanoxin 0.25,digoxin,Tablet,0.25,Curated Indian Brand Formulary
+Lanoxin,digoxin,Tablet,0.25,Curated Indian Brand Formulary
+digoxin,digoxin,Tablet,0.25,Curated Indian Brand Formulary
+Cordarone 100,amiodarone,Tablet,100,Curated Indian Brand Formulary
+Cordarone,amiodarone,Tablet,100,Curated Indian Brand Formulary
+amiodarone,amiodarone,Tablet,100,Curated Indian Brand Formulary
+Claribid 500,clarithromycin,Tablet,500,Curated Indian Brand Formulary
+Claribid,clarithromycin,Tablet,500,Curated Indian Brand Formulary
+clarithromycin,clarithromycin,Tablet,500,Curated Indian Brand Formulary
+Forcan 150,fluconazole,Tablet,150,Curated Indian Brand Formulary
+Forcan,fluconazole,Tablet,150,Curated Indian Brand Formulary
+fluconazole,fluconazole,Tablet,150,Curated Indian Brand Formulary

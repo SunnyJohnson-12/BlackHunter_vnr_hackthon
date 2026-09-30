@@ -1,0 +1,18 @@
+drug_name,max_single_dose_mg,max_daily_dose_mg,unit,overdose_risk,source
+paracetamol,1000,4000,mg,Exceeding 4000 mg/day saturates glucuronidation/sulfation causing toxic NAPQI accumulation and fatal centrilobular hepatic necrosis.,FDA Label / WHO Formulary
+ibuprofen,800,2400,mg,"Exceeding 2400 mg/day significantly elevates risk of acute interstitial nephritis, papillary necrosis, and massive upper GI hemorrhage.",FDA Label / Curated
+metformin,1000,2550,mg,Exceeding 2550 mg/day increases systemic accumulation and triggers profound lactic acidosis without incremental glycemic control.,FDA Monograph / Curated
+aspirin,1000,4000,mg,"High doses cause salicylate toxicity (salicylism), tinnitus, respiratory alkalosis followed by metabolic acidosis and cerebral edema.",FDA Monograph / Curated
+atorvastatin,80,80,mg,Doses exceeding 80 mg/day dramatically increase myopathy and fatal rhabdomyolysis risks.,FDA Label / Curated
+amoxicillin,1000,3000,mg,"Excessive doses can provoke neurotoxicity, interstitial nephritis, and crystalluria.",Curated clinical pharmacology
+ciprofloxacin,750,1500,mg,"Exceeding 1500 mg/day increases CNS excitation, seizure risk, and QT prolongation.",FDA Label / Curated
+sertraline,200,200,mg,Exceeding 200 mg/day substantially increases risk of Serotonin Syndrome and ventricular arrhythmia (QTc prolongation).,FDA Label / Curated
+tramadol,100,400,mg,Exceeding 400 mg/day drastically elevates risk of tonic-clonic seizures and fatal respiratory depression.,FDA Label / Curated
+telmisartan,80,80,mg,Doses above 80 mg/day do not confer extra blood pressure reduction and trigger severe hypotension and hyperkalemia.,FDA Label / Curated
+metoprolol,200,400,mg,"High doses lead to severe bradycardia, cardiogenic shock, and atrioventricular block.",FDA Label / Curated
+furosemide,160,600,mg,"Excessive diuresis causes profound hypovolemia, circulatory collapse, and permanent ototoxicity.",FDA Label / Curated
+spironolactone,100,200,mg,"High doses provoke severe hyperkalemia, metabolic acidosis, and cardiac arrest.",FDA Label / Curated
+sildenafil,100,100,mg,"Exceeding 100 mg per single intake precipitates acute severe hypotension, priapism, and non-arteritic anterior ischemic optic neuropathy.",FDA Label / Curated
+nitroglycerin,0.6,1.8,mg,"Excessive sublingual nitrate leads to severe rebound hypotension, syncope, and reduced coronary perfusion.",FDA Label / Curated
+pantoprazole,40,80,mg,High prolonged doses cause severe hypomagnesemia and impair calcium absorption.,FDA Label / Curated
+omeprazole,40,80,mg,"High doses heighten hypomagnesemia, Clostridioides difficile colitis, and drug interaction risks.",FDA Label / Curated

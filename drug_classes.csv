@@ -1,0 +1,63 @@
+# Data Provenance: WHO ATC Classification & Curated Clinical Pharmacology (Demo Dataset for VNR Hackathon)
+drug_name,pharmacologic_class,therapeutic_category,source
+ibuprofen,NSAID,Analgesic / Anti-inflammatory,WHO ATC / Curated
+naproxen,NSAID,Analgesic / Anti-inflammatory,WHO ATC / Curated
+diclofenac,NSAID,Analgesic / Anti-inflammatory,WHO ATC / Curated
+ketorolac,NSAID,Analgesic / Anti-inflammatory,WHO ATC / Curated
+celecoxib,NSAID,Analgesic / Anti-inflammatory,WHO ATC / Curated
+aspirin,NSAID,Analgesic / Antiplatelet,WHO ATC / Curated
+paracetamol,Analgesic-Antipyretic,Analgesic / Antipyretic,WHO ATC / Curated
+atorvastatin,HMG-CoA Reductase Inhibitor,Lipid Lowering Agent,WHO ATC / Curated
+rosuvastatin,HMG-CoA Reductase Inhibitor,Lipid Lowering Agent,WHO ATC / Curated
+simvastatin,HMG-CoA Reductase Inhibitor,Lipid Lowering Agent,WHO ATC / Curated
+pantoprazole,Proton Pump Inhibitor (PPI),Gastroprotective Agent,WHO ATC / Curated
+omeprazole,Proton Pump Inhibitor (PPI),Gastroprotective Agent,WHO ATC / Curated
+esomeprazole,Proton Pump Inhibitor (PPI),Gastroprotective Agent,WHO ATC / Curated
+rabeprazole,Proton Pump Inhibitor (PPI),Gastroprotective Agent,WHO ATC / Curated
+metformin,Biguanide,Antidiabetic,WHO ATC / Curated
+glimepiride,Sulfonylurea,Antidiabetic,WHO ATC / Curated
+glipizide,Sulfonylurea,Antidiabetic,WHO ATC / Curated
+gliclazide,Sulfonylurea,Antidiabetic,WHO ATC / Curated
+metoprolol,Beta-Blocker (Beta-1 Selective),Antihypertensive / Antiarrhythmic,WHO ATC / Curated
+atenolol,Beta-Blocker (Beta-1 Selective),Antihypertensive / Antiarrhythmic,WHO ATC / Curated
+propranolol,Beta-Blocker (Non-Selective),Antihypertensive / Antiarrhythmic,WHO ATC / Curated
+carvedilol,Beta-Blocker (Alpha/Beta),Antihypertensive / Heart Failure,WHO ATC / Curated
+telmisartan,Angiotensin II Receptor Blocker (ARB),Antihypertensive,WHO ATC / Curated
+losartan,Angiotensin II Receptor Blocker (ARB),Antihypertensive,WHO ATC / Curated
+valsartan,Angiotensin II Receptor Blocker (ARB),Antihypertensive,WHO ATC / Curated
+enalapril,ACE Inhibitor,Antihypertensive,WHO ATC / Curated
+ramipril,ACE Inhibitor,Antihypertensive,WHO ATC / Curated
+lisinopril,ACE Inhibitor,Antihypertensive,WHO ATC / Curated
+amlodipine,Calcium Channel Blocker (Dihydropyridine),Antihypertensive,WHO ATC / Curated
+furosemide,Loop Diuretic,Diuretic,WHO ATC / Curated
+spironolactone,Potassium-Sparing Diuretic / Aldosterone Antagonist,Diuretic / Heart Failure,WHO ATC / Curated
+sertraline,SSRI Antidepressant,Psychotropic,WHO ATC / Curated
+escitalopram,SSRI Antidepressant,Psychotropic,WHO ATC / Curated
+fluoxetine,SSRI Antidepressant,Psychotropic,WHO ATC / Curated
+paroxetine,SSRI Antidepressant,Psychotropic,WHO ATC / Curated
+tramadol,Opioid Analgesic,Analgesic,WHO ATC / Curated
+codeine,Opioid Analgesic,Analgesic,WHO ATC / Curated
+morphine,Opioid Analgesic,Analgesic,WHO ATC / Curated
+ciprofloxacin,Fluoroquinolone Antibiotic,Antibacterial,WHO ATC / Curated
+levofloxacin,Fluoroquinolone Antibiotic,Antibacterial,WHO ATC / Curated
+amoxicillin,Aminopenicillin Antibiotic,Antibacterial,WHO ATC / Curated
+clavulanate,Beta-Lactamase Inhibitor,Antibacterial Adjuvant,WHO ATC / Curated
+cefixime,Cephalosporin (3rd Gen) Antibiotic,Antibacterial,WHO ATC / Curated
+azithromycin,Macrolide Antibiotic,Antibacterial,WHO ATC / Curated
+clarithromycin,Macrolide Antibiotic,Antibacterial,WHO ATC / Curated
+warfarin,Vitamin K Antagonist Anticoagulant,Antithrombotic,WHO ATC / Curated
+clopidogrel,P2Y12 Platelet Inhibitor,Antiplatelet,WHO ATC / Curated
+sildenafil,PDE-5 Inhibitor,Urological / Vasodilator,WHO ATC / Curated
+nitroglycerin,Organic Nitrate Vasodilator,Antianginal,WHO ATC / Curated
+amiodarone,Class III Antiarrhythmic,Antiarrhythmic,WHO ATC / Curated
+digoxin,Cardiac Glycoside,Inotrope / Antiarrhythmic,WHO ATC / Curated
+fexofenadine,H1 Antihistamine (2nd Gen),Antiallergic,WHO ATC / Curated
+cetirizine,H1 Antihistamine (2nd Gen),Antiallergic,WHO ATC / Curated
+levocetirizine,H1 Antihistamine (2nd Gen),Antiallergic,WHO ATC / Curated
+montelukast,Leukotriene Receptor Antagonist,Antiasthmatic,WHO ATC / Curated
+domperidone,Dopamine D2 Receptor Antagonist,Antiemetic / Prokinetic,WHO ATC / Curated
+methotrexate,Antifolate Antimetabolite,Immunosuppressive / Antineoplastic,WHO ATC / Curated
+lithium,Mood Stabilizer,Psychotropic,WHO ATC / Curated
+theophylline,Methylxanthine Bronchodilator,Respiratory Agent,WHO ATC / Curated
+fluconazole,Triazole Antifungal,Antimycotic,WHO ATC / Curated
+gentamicin,Aminoglycoside Antibiotic,Antibacterial,WHO ATC / Curated

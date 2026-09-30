@@ -1,0 +1,91 @@
+[
+  {
+    "id": "CASE-1-DDI",
+    "name": "Ramesh Kumar (68y M) — Target: Drug-Drug Interaction",
+    "age": 68,
+    "gender": "Male",
+    "conditions": [
+      "Atrial Fibrillation",
+      "Hypertension"
+    ],
+    "allergies": [],
+    "current_meds": [
+      "Warfarin 5mg OD"
+    ],
+    "clinical_notes": "Patient on chronic oral anticoagulation for stroke prevention in non-valvular AFib. High bleeding risk with concurrent antiplatelets."
+  },
+  {
+    "id": "CASE-2-CONTRA",
+    "name": "Priya Sharma (34y F) — Target: Drug-Disease Contraindication",
+    "age": 34,
+    "gender": "Female",
+    "conditions": [
+      "Asthma"
+    ],
+    "allergies": [],
+    "current_meds": [
+      "Montelukast 10mg OD"
+    ],
+    "clinical_notes": "Moderate persistent bronchial asthma with hyperreactive airways. Absolute contraindication to non-selective beta-blockers."
+  },
+  {
+    "id": "CASE-3-DUP",
+    "name": "Rajesh Patel (55y M) — Target: Duplicate Therapy",
+    "age": 55,
+    "gender": "Male",
+    "conditions": [
+      "Osteoarthritis"
+    ],
+    "allergies": [],
+    "current_meds": [
+      "Brufen 400mg BD"
+    ],
+    "clinical_notes": "Chronic bilateral knee osteoarthritis. Currently taking oral ibuprofen (NSAID). Monitor for duplicate NSAID therapy."
+  },
+  {
+    "id": "CASE-4-DOSE",
+    "name": "Vikram Malhotra (45y M) — Target: Dosage Overdose",
+    "age": 45,
+    "gender": "Male",
+    "conditions": [
+      "Acute Viral Fever"
+    ],
+    "allergies": [],
+    "current_meds": [
+      "Cetirizine 10mg OD"
+    ],
+    "clinical_notes": "Patient presenting with acute high fever. Requires strict verification that antipyretic dosing does not exceed hepatotoxic ceilings."
+  },
+  {
+    "id": "CASE-5-ALLERGY",
+    "name": "Sunita Devi (50y F) — Target: Allergy Conflict / Cross-Reactivity",
+    "age": 50,
+    "gender": "Female",
+    "conditions": [
+      "Hypertension"
+    ],
+    "allergies": [
+      "penicillin"
+    ],
+    "current_meds": [
+      "Amlodipine 5mg OD"
+    ],
+    "clinical_notes": "Documented prior anaphylaxis and laryngeal angioedema from penicillin. High risk with beta-lactam and aminopenicillin antibiotics."
+  },
+  {
+    "id": "CASE-6-CLEAN",
+    "name": "Ananya Verma (26y F) — Target: Clean Case (Zero Alerts)",
+    "age": 26,
+    "gender": "Female",
+    "conditions": [
+      "Mild Tension Headache"
+    ],
+    "allergies": [
+      "dust mites"
+    ],
+    "current_meds": [
+      "Cetirizine 10mg OD"
+    ],
+    "clinical_notes": "Healthy young adult with seasonal allergic rhinitis. Demonstrates baseline safety validation with zero false-positive alerts."
+  }
+]
